@@ -1,0 +1,14 @@
+{
+  "whitelist": {
+    "remmina": "remmina",
+    "firefox": "firefox",
+    "handbrake": "handbrake",
+    "makemkv": "makemkv",
+    "allbuffs": "firefox http://allbuffs.com",
+    "amusic": "firefox http://music.amazon.com"
+  },
+  "blacklist": [
+    "rm",
+    "mv"
+  ]
+}
